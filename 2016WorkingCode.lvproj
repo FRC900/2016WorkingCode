@@ -724,8 +724,6 @@ AddOutputFilter chunkFilter
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="NormalizeAngle.vi" Type="VI" URL="../../Support Code/Team900-VIs/Team900SwerveDrive/NormalizeAngle.vi"/>
-			<Item Name="NormalizeArray.vi" Type="VI" URL="../../Support Code/Team900-VIs/Team900SwerveDrive/NormalizeArray.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
