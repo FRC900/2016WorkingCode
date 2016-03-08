@@ -722,13 +722,6 @@ AddOutputFilter chunkFilter
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="socket_options.ctl" Type="VI" URL="../Drive/labview-zmq/socket_options.ctl"/>
-			<Item Name="socket_type.ctl" Type="VI" URL="../Drive/labview-zmq/socket_type.ctl"/>
-			<Item Name="zmq_connect.vi" Type="VI" URL="../Drive/labview-zmq/zmq_connect.vi"/>
-			<Item Name="zmq_ctx_create.vi" Type="VI" URL="../Drive/labview-zmq/zmq_ctx_create.vi"/>
-			<Item Name="zmq_recv_timeout.vi" Type="VI" URL="../Drive/labview-zmq/zmq_recv_timeout.vi"/>
-			<Item Name="zmq_setsocketopt.vi" Type="VI" URL="../Drive/labview-zmq/zmq_setsocketopt.vi"/>
-			<Item Name="zmq_socket.vi" Type="VI" URL="../Drive/labview-zmq/zmq_socket.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
