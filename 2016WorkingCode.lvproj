@@ -114,6 +114,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
 		</Item>
 		<Item Name="Team Code" Type="Folder">
+			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="Drive" Type="Folder" URL="../Drive">
 				<Property Name="NI.DISK" Type="Bool">true</Property>
 			</Item>
